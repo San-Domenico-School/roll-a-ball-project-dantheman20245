@@ -3,6 +3,14 @@ using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
 
+/*****************************************************
+ * This is a combination Player Movement controller
+ * and Game Manager attached to the Player
+ * 
+ * Daniel
+ * 11/1/2024
+ ****************************************************/
+
 public class PlayerController : MonoBehaviour
 {
     public TextMeshProUGUI countText;

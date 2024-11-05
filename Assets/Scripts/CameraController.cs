@@ -2,6 +2,14 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+/*****************************************************
+ * This is allows the camera to follow the player. 
+ * It is attached to the Camera
+ * 
+ * Daniel
+ * 11/1/2024
+ ****************************************************/
+
 public class CameraController : MonoBehaviour
 {
     public GameObject player;
